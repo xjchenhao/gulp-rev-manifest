@@ -1,0 +1,23 @@
+{
+  "name": "gulp-rev-manifest",
+  "version": "1.0.0",
+  "description": "`gulp-rev` file mapping",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xjchenhao/gulp-rev-manifest.git"
+  },
+  "keywords": [
+    "gulp",
+    "gulp-rev"
+  ],
+  "author": "xjchenhao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xjchenhao/gulp-rev-manifest/issues"
+  },
+  "homepage": "https://github.com/xjchenhao/gulp-rev-manifest#readme"
+}
